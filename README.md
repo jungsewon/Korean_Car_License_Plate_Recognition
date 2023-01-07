@@ -1,3 +1,2 @@
 # Korean_Car_License_Plate_Recognition
-asfasd
-![image](https://user-images.githubusercontent.com/57741786/211158479-fb7bc51d-ee58-4689-87bf-fe3104a5ad16.png)
+![image](https://user-images.githubusercontent.com/57741786/211160455-7d0225d6-8c4e-4dc9-b120-bae11611ff41.png)
